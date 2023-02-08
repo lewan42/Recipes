@@ -11,3 +11,5 @@
 - Kotlin Coroutines 
 - Retrofit
 - Room
+
+API: https://spoonacular.com/food-api
