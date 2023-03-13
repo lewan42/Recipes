@@ -22,13 +22,20 @@ android {
     }
 }
 
+apply from: "$project.rootDir/scripts/deps_versions.gradle"
 
 dependencies {
-    implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.21"
+    implementation 'androidx.core:core-ktx:1.9.0'
     implementation 'androidx.appcompat:appcompat:1.6.1'
     implementation 'androidx.core:core-ktx:1.9.0'
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test:runner:1.5.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+
+    implementation dagger
+    kapt daggerCompiler
+
+    implementation project(":core")
+    implementation project(":main")
+    implementation project(":search")
 }

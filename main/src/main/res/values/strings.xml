@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Рецепты</string>
+    <string name="title_search">Поиск</string>
+    <string name="title_create_recipe">Создание рецепта</string>
+</resources>

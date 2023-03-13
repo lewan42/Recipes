@@ -1,2 +1,6 @@
 include ':app'
 rootProject.name = 'Recipes'
+include ':main'
+include ':core_api'
+include ':core'
+include ':search'

@@ -1,0 +1,18 @@
+ext {
+
+    retrofitVersion = '2.6.1'
+    daggerVersion = '2.40.1'
+    roomVersion = '2.1.0'
+    coroutinesVersion = '1.1.1'
+
+    retrofit = "com.squareup.retrofit2:retrofit:$retrofitVersion"
+    dagger = "com.google.dagger:dagger:$daggerVersion"
+    daggerCompiler = "com.google.dagger:dagger-compiler:$daggerVersion"
+    room = "androidx.room:room-runtime:$roomVersion"
+    roomCompiler = "androidx.room:room-compiler:$roomVersion"
+    coroutinesDependencies = [
+            'coroutines_core'   : "org.jetbrains.kotlinx:kotlinx-coroutines-core:$coroutinesVersion",
+            'coroutines_android': "org.jetbrains.kotlinx:kotlinx-coroutines-android:$coroutinesVersion"
+    ]
+
+}
