@@ -2,11 +2,10 @@ package com.lewan.app
 
 import android.app.Application
 import android.content.Context
-import com.lewan.core_api.mediator.AppProvider
+import com.lewan.core_di_api.AppProvider
 import dagger.BindsInstance
 import dagger.Component
 import javax.inject.Singleton
-
 @Component
 @Singleton
 interface AppComponent : AppProvider {
@@ -22,7 +21,6 @@ interface AppComponent : AppProvider {
                 appComponent = it
             }
     }
-
 
     @Component.Builder
     interface Builder {

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="target_unit">Target unit</string>
+    <string name="source_unit">Source unit</string>
+    <string name="source_amount">Source amount</string>
+    <string name="ingredient_name">Ingredient name</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result</string>
+    <string name="convert_amounts">Convert amounts</string>
+    <string name="fill_field">Fill in the field</string>
+</resources>

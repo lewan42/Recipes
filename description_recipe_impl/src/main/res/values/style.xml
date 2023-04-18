@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextAppearance.AppCompat.Toolbar">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="Toolbar" parent="@style/Widget.MaterialComponents.Toolbar">
+        <item name="titleTextAppearance">@style/TextAppearance.AppCompat.Toolbar</item>
+    </style>
+</resources>

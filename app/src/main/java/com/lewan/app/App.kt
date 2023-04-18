@@ -1,8 +1,8 @@
 package com.lewan.app
 
 import android.app.Application
-import com.lewan.core_api.mediator.AppWithFacade
-import com.lewan.core_api.mediator.ProvidersFacade
+import com.lewan.core_di_api.AppWithFacade
+import com.lewan.core_di_api.ProvidersFacade
 
 class App : Application(), AppWithFacade {
 

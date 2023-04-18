@@ -1,41 +1,65 @@
-apply plugin: 'com.android.application'
-apply plugin: 'kotlin-android'
-apply plugin: 'kotlin-android-extensions'
-apply plugin: 'kotlin-kapt'
+plugins {
+    id 'com.android.application'
+    id 'kotlin-android'
+    id 'kotlin-kapt'
+    id "org.jetbrains.kotlin.plugin.allopen" version "1.6.20"
+}
 
 android {
-    compileSdkVersion 33
+    compileSdkVersion 32
+
     defaultConfig {
-        applicationId "com.lewan.recipes"
-        minSdkVersion 23
-        targetSdkVersion 33
+        applicationId "com.lewan.app"
+        minSdkVersion 24
+        targetSdkVersion 32
         versionCode 1
         versionName "1.0"
+
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
+
     buildTypes {
         release {
             minifyEnabled false
-            shrinkResources false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+    testOptions {
+        unitTests {
+            includeAndroidResources = true
         }
     }
 }
 
+
 apply from: "$project.rootDir/scripts/deps_versions.gradle"
 
 dependencies {
-    implementation 'androidx.core:core-ktx:1.9.0'
-    implementation 'androidx.appcompat:appcompat:1.6.1'
-    implementation 'androidx.core:core-ktx:1.9.0'
-    testImplementation 'junit:junit:4.13.2'
-    androidTestImplementation 'androidx.test:runner:1.5.2'
-    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+    implementation androidXCoreKtx
+    implementation androidAppcompat
+
+    testImplementation jUnit
+    testImplementation androidXTestEspressoCore
 
     implementation dagger
     kapt daggerCompiler
-
-    implementation project(":core")
-    implementation project(":main")
-    implementation project(":search")
+    implementation project(':convert_impl')
+    implementation project(':convert_api')
+    implementation project(':search_recipe_impl')
+    implementation project(':search_recipe_api')
+    implementation project(':description_recipe_api')
+    implementation project(':description_recipe_impl')
+    implementation project(':main_impl')
+    implementation project(':main_api')
+    implementation project(":core_factory")
+    implementation project(':network_impl')
+    implementation project(':core_di_impl')
+    implementation project(':network_api')
 }

@@ -12,10 +12,23 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/core" />
+            <option value="$PROJECT_DIR$/base_fragment" />
+            <option value="$PROJECT_DIR$/convert_api" />
+            <option value="$PROJECT_DIR$/convert_impl" />
             <option value="$PROJECT_DIR$/core_api" />
-            <option value="$PROJECT_DIR$/main" />
-            <option value="$PROJECT_DIR$/search" />
+            <option value="$PROJECT_DIR$/core_db_api" />
+            <option value="$PROJECT_DIR$/core_db_impl" />
+            <option value="$PROJECT_DIR$/core_di_api" />
+            <option value="$PROJECT_DIR$/core_di_impl" />
+            <option value="$PROJECT_DIR$/core_factory" />
+            <option value="$PROJECT_DIR$/description_recipe_api" />
+            <option value="$PROJECT_DIR$/description_recipe_impl" />
+            <option value="$PROJECT_DIR$/main_api" />
+            <option value="$PROJECT_DIR$/main_impl" />
+            <option value="$PROJECT_DIR$/network_api" />
+            <option value="$PROJECT_DIR$/network_impl" />
+            <option value="$PROJECT_DIR$/search_recipe_api" />
+            <option value="$PROJECT_DIR$/search_recipe_impl" />
           </set>
         </option>
       </GradleProjectSettings>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enter_recipe">Enter recipe</string>
+    <string name="we_found_nothing_on_your_request">We found nothing on your request(</string>
+</resources>

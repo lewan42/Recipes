@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bottom_nav_bd">#7C757E</color>
+    <color name="selected">#FFFFFF</color>
+    <color name="unselected">#7C7C7C</color>
+</resources>
