@@ -3,8 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <com.facebook.shimmer.ShimmerFrameLayout
-        xmlns:shimmer="http://schemas.android.com/apk/res-auto"
+    <com.facebook.shimmer.ShimmerFrameLayout xmlns:shimmer="http://schemas.android.com/apk/res-auto"
         android:id="@+id/shimmer_layout"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -24,88 +23,102 @@
                 android:background="#E8E8E8" />
 
             <View
-                android:layout_marginTop="35dp"
+                android:layout_width="250dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="20dp"
+                android:background="#E8E8E8" />
+
+            <View
                 android:layout_width="150dp"
                 android:layout_height="30dp"
                 android:layout_marginStart="20dp"
-                android:layout_marginEnd="20dp"
-                android:background="#E8E8E8" />
-
-            <View
-                android:layout_marginTop="20dp"
-                android:layout_width="150dp"
-                android:layout_height="30dp"
-                android:layout_marginStart="20dp"
-                android:layout_marginEnd="20dp"
-                android:background="#E8E8E8" />
-
-            <View
-                android:layout_marginTop="20dp"
-                android:layout_width="match_parent"
-                android:layout_height="30dp"
-                android:layout_marginStart="20dp"
+                android:layout_marginTop="30dp"
                 android:layout_marginEnd="20dp"
                 android:background="#E8E8E8" />
 
 
             <View
-            android:layout_marginTop="5dp"
-            android:layout_width="match_parent"
-            android:layout_height="30dp"
-            android:layout_marginStart="20dp"
-            android:layout_marginEnd="20dp"
-            android:background="#E8E8E8" />
-
-            <View
-                android:layout_marginTop="5dp"
                 android:layout_width="match_parent"
                 android:layout_height="30dp"
                 android:layout_marginStart="20dp"
-                android:layout_marginEnd="20dp"
-                android:background="#E8E8E8" />
-            <View
                 android:layout_marginTop="5dp"
-                android:layout_width="match_parent"
-                android:layout_height="30dp"
-                android:layout_marginStart="20dp"
-                android:layout_marginEnd="20dp"
-                android:background="#E8E8E8" />
-            <View
-                android:layout_marginTop="5dp"
-                android:layout_width="match_parent"
-                android:layout_height="30dp"
-                android:layout_marginStart="20dp"
-                android:layout_marginEnd="20dp"
-                android:background="#E8E8E8" />
-            <View
-                android:layout_marginTop="5dp"
-                android:layout_width="match_parent"
-                android:layout_height="30dp"
-                android:layout_marginStart="20dp"
-                android:layout_marginEnd="20dp"
-                android:background="#E8E8E8" />
-            <View
-                android:layout_marginTop="5dp"
-                android:layout_width="match_parent"
-                android:layout_height="30dp"
-                android:layout_marginStart="20dp"
-                android:layout_marginEnd="20dp"
-                android:background="#E8E8E8" />
-            <View
-                android:layout_marginTop="5dp"
-                android:layout_width="match_parent"
-                android:layout_height="30dp"
-                android:layout_marginStart="20dp"
-                android:layout_marginEnd="20dp"
-                android:background="#E8E8E8" />
-            <View
-                android:layout_marginTop="5dp"
-                android:layout_width="match_parent"
-                android:layout_height="30dp"
-                android:layout_marginStart="20dp"
                 android:layout_marginEnd="20dp"
                 android:background="#E8E8E8" />
 
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="20dp"
+                android:background="#E8E8E8" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="20dp"
+                android:background="#E8E8E8" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="20dp"
+                android:background="#E8E8E8" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="20dp"
+                android:background="#E8E8E8" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="20dp"
+                android:background="#E8E8E8" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="20dp"
+                android:background="#E8E8E8" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="20dp"
+                android:background="#E8E8E8" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="20dp"
+                android:background="#E8E8E8" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="20dp"
+                android:background="#E8E8E8" />
 
 
         </LinearLayout>

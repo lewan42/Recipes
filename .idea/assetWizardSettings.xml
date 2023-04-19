@@ -34,8 +34,8 @@
                         <option name="values">
                           <map>
                             <entry key="assetSourceType" value="FILE" />
-                            <entry key="outputName" value="search" />
-                            <entry key="sourceFile" value="D:\photo\icons8-search.svg" />
+                            <entry key="outputName" value="ic_food" />
+                            <entry key="sourceFile" value="D:\photo\foods.svg" />
                           </map>
                         </option>
                       </PersistentState>

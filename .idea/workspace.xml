@@ -10,292 +10,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f471d405-3b4a-47c6-bece-fa8dfb843abf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/androidTestResultsUserPreferences.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/core/Recipes.core.androidTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/core/Recipes.core.unitTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/core_impl/Recipes.core_impl.androidTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/core_impl/Recipes.core_impl.unitTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/core_network_api/Recipes.core_network_api.androidTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/core_network_api/Recipes.core_network_api.unitTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/core_network_impl/Recipes.core_network_impl.androidTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/core_network_impl/Recipes.core_network_impl.unitTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/create_recipe_impl/Recipes.create_recipe_impl.androidTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/create_recipe_impl/Recipes.create_recipe_impl.unitTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/detail_recipe_impl/Recipes.detail_recipe_impl.androidTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/detail_recipe_impl/Recipes.detail_recipe_impl.unitTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/favorite_recipe_api/Recipes.favorite_recipe_api.androidTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/favorite_recipe_api/Recipes.favorite_recipe_api.unitTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/favorite_recipe_impl/Recipes.favorite_recipe_impl.androidTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/favorite_recipe_impl/Recipes.favorite_recipe_impl.unitTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/main/Recipes.main.androidTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/main/Recipes.main.unitTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/search/Recipes.search.androidTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/search/Recipes.search.unitTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/search_api/Recipes.search_api.androidTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/search_api/Recipes.search_api.unitTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/search_impl/Recipes.search_impl.androidTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/search_impl/Recipes.search_impl.unitTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/search_recipe/Recipes.search_recipe.androidTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/search_recipe/Recipes.search_recipe.unitTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_fragment/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_fragment/src/main/java/com/lewan/base_fragment/ViewBindingFragment.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_fragment/src/main/java/com/lewan/base_fragment/ViewModelFragment.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_fragment/src/main/java/com/lewan/base_fragment/ViewModule.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convert_api/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convert_api/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convert_api/src/main/java/com/lewan/convert_api/ConvertMediator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convert_impl/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convert_impl/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convert_impl/src/main/java/com/lewan/convert_impl/ConvertData.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convert_impl/src/main/java/com/lewan/convert_impl/ConvertDto.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convert_impl/src/main/java/com/lewan/convert_impl/ConvertMediatorImpl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convert_impl/src/main/java/com/lewan/convert_impl/OpenForTesting.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convert_impl/src/main/java/com/lewan/convert_impl/di/ConvertComponent.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convert_impl/src/main/java/com/lewan/convert_impl/di/ConvertMediatorModule.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convert_impl/src/main/java/com/lewan/convert_impl/di/ConvertModule.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convert_impl/src/main/java/com/lewan/convert_impl/di/ConvertServiceModule.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convert_impl/src/main/java/com/lewan/convert_impl/repo/ConvertRepository.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convert_impl/src/main/java/com/lewan/convert_impl/repo/ConvertRepositoryImpl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convert_impl/src/main/java/com/lewan/convert_impl/repo/ConvertService.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convert_impl/src/main/java/com/lewan/convert_impl/ui/ConvertFragment.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convert_impl/src/main/java/com/lewan/convert_impl/ui/ViewExt.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convert_impl/src/main/java/com/lewan/convert_impl/vm/ConvertViewModel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convert_impl/src/main/res/animator/animation.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convert_impl/src/main/res/drawable/button_bd.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convert_impl/src/main/res/drawable/ic_vector_fwd.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convert_impl/src/main/res/layout/fragment_favorite_recipes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convert_impl/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convert_impl/src/test/java/com/lewan/convert_impl/ConvertRepositoryImplTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convert_impl/src/test/java/com/lewan/convert_impl/ConvertViewModelTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convert_impl/src/test/java/com/lewan/convert_impl/Stubs.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_api/src/main/java/com/lewan/core_api/Result.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_db_api/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_db_api/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_db_api/consumer-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_db_api/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_db_api/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_db_api/src/main/java/com/lewan/core_db_api/Converter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_db_api/src/main/java/com/lewan/core_db_api/DaoProvider.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_db_api/src/main/java/com/lewan/core_db_api/dao/DescriptionRecipeDao.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_db_api/src/main/java/com/lewan/core_db_api/dao/SearchRecipeDao.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_db_api/src/main/java/com/lewan/core_db_api/entity/DescriptionRecipeEntity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_db_api/src/main/java/com/lewan/core_db_api/entity/RecipeEntity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_db_impl/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_db_impl/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_db_impl/consumer-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_db_impl/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_db_impl/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_db_impl/src/main/java/com/lewan/core_db_impl/db/AppDatabase.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_db_impl/src/main/java/com/lewan/core_db_impl/di/DatabaseModule.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_db_impl/src/test/java/com/lewan/SearchRecipeDaoTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_db_impl/src/test/java/com/lewan/Stubs.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_di_api/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_di_api/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_di_api/consumer-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_di_api/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_di_api/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_di_api/src/main/java/com/lewan/core_di_api/CoreComponentProvider.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_di_api/src/main/java/com/lewan/core_di_api/MediatorProvider.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_di_api/src/main/java/com/lewan/core_di_api/NetworkProvider.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_di_api/src/main/java/com/lewan/core_di_api/ProvidersFacade.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_di_impl/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_di_impl/consumer-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_di_impl/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_di_impl/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_di_impl/src/main/java/com/lewan/core_di_impl/CoreComponent.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_factory/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_factory/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_factory/consumer-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_factory/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_factory/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_factory/src/main/java/com/lewan/core_factory/CoreComponentFactory.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_ui/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_ui/consumer-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_ui/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core_ui/src/main/java/com/lewan/core_ui/OpenForTesting.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_api/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_api/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_api/consumer-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_api/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_api/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_api/src/main/java/com/lewan/description_recipe_api/DescriptionRecipeMediator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_impl/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_impl/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_impl/consumer-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_impl/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_impl/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_impl/src/main/java/com/lewan/description_recipe_impl/DescriptionRecipe.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_impl/src/main/java/com/lewan/description_recipe_impl/DescriptionRecipeFragment.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_impl/src/main/java/com/lewan/description_recipe_impl/DescriptionRecipeMediatorImpl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_impl/src/main/java/com/lewan/description_recipe_impl/DescriptionRecipeViewModel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_impl/src/main/java/com/lewan/description_recipe_impl/Mapper.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_impl/src/main/java/com/lewan/description_recipe_impl/adapter/IngredientAdapter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_impl/src/main/java/com/lewan/description_recipe_impl/di/DescriptionRecipeComponent.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_impl/src/main/java/com/lewan/description_recipe_impl/di/DescriptionRecipeMediatorModule.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_impl/src/main/java/com/lewan/description_recipe_impl/di/DescriptionRecipeModule.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_impl/src/main/java/com/lewan/description_recipe_impl/di/DescriptionRecipeRetrofitModule.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_impl/src/main/java/com/lewan/description_recipe_impl/repo/DescriptionRecipeDto.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_impl/src/main/java/com/lewan/description_recipe_impl/repo/DescriptionRecipeRepository.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_impl/src/main/java/com/lewan/description_recipe_impl/repo/DescriptionRecipeRepositoryImpl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_impl/src/main/java/com/lewan/description_recipe_impl/repo/DescriptionRecipeService.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_impl/src/main/res/anim/slide_enter_from_left.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_impl/src/main/res/anim/slide_enter_from_right.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_impl/src/main/res/anim/slide_exit_to_left.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_impl/src/main/res/anim/slide_exit_to_right.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_impl/src/main/res/drawable/dish.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_impl/src/main/res/drawable/ic_arrow_left.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_impl/src/main/res/layout/description_recipe_fragment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_impl/src/main/res/layout/ingredient_item.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_impl/src/main/res/layout/shimmer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_impl/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description_recipe_impl/src/main/res/values/style.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_api/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_api/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_api/consumer-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_api/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_api/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_api/src/main/java/com/lewan/main_api/MainContainer.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_impl/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_impl/consumer-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_impl/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_impl/src/main/java/com/lewan/main_impl/MainContainerImpl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_impl/src/main/java/com/lewan/main_impl/di/MainModule.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_impl/src/main/java/com/lewan/main_impl/di/ModuleMainContainer.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_impl/src/main/res/drawable/ic_calculator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_impl/src/main/res/drawable/ic_calculator_selected.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_impl/src/main/res/drawable/ic_search.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_impl/src/main/res/drawable/ic_search_selected.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_impl/src/main/res/drawable/nav_calculator_selector.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_impl/src/main/res/drawable/nav_search_selected.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network_api/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network_api/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network_api/consumer-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network_api/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network_api/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network_api/src/main/java/com/lewan/network_api/ApiKey.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network_api/src/main/java/com/lewan/network_api/INetworkServiceGenerator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network_impl/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network_impl/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network_impl/consumer-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network_impl/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network_impl/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network_impl/src/main/java/com/lewan/network_impl/ApiKeyImpl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network_impl/src/main/java/com/lewan/network_impl/IUrlProvider.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network_impl/src/main/java/com/lewan/network_impl/NetworkModuleProvides.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network_impl/src/main/java/com/lewan/network_impl/NetworkServiceGeneratorImpl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network_impl/src/main/java/com/lewan/network_impl/UrlProviderImpl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_api/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_api/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_api/consumer-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_api/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_api/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_api/src/main/java/com/lewan/search_api/SearchRecipeMediator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/consumer-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/src/main/java/com/lewan/search_recipe_impl/OpenForTesting.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/src/main/java/com/lewan/search_recipe_impl/Recipe.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/src/main/java/com/lewan/search_recipe_impl/RecipeList.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/src/main/java/com/lewan/search_recipe_impl/RecipeMappers.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/src/main/java/com/lewan/search_recipe_impl/SearchRecipeFragment.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/src/main/java/com/lewan/search_recipe_impl/SearchRecipeMediatorImpl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/src/main/java/com/lewan/search_recipe_impl/SearchRecipeViewModel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/src/main/java/com/lewan/search_recipe_impl/adapter/ItemDecoration.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/src/main/java/com/lewan/search_recipe_impl/adapter/SearchRecipeDiffUtil.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/src/main/java/com/lewan/search_recipe_impl/adapter/SearchRecipesAdapter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/src/main/java/com/lewan/search_recipe_impl/adapter/SearchRecipesViewHolder.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/src/main/java/com/lewan/search_recipe_impl/di/SearchMediatorModule.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/src/main/java/com/lewan/search_recipe_impl/di/SearchRecipeComponent.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/src/main/java/com/lewan/search_recipe_impl/di/SearchRecipeModule.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/src/main/java/com/lewan/search_recipe_impl/di/SearchServiceModule.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/src/main/java/com/lewan/search_recipe_impl/repo/RecipeDto.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/src/main/java/com/lewan/search_recipe_impl/repo/SearchRecipeService.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/src/main/java/com/lewan/search_recipe_impl/repo/SearchRepositoryApi.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/src/main/java/com/lewan/search_recipe_impl/repo/SearchRepositoryImpl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/src/main/res/drawable/dish.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/src/main/res/drawable/ic_search.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/src/main/res/drawable/recipe_item_bd.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/src/main/res/drawable/search_view_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/src/main/res/layout/fragment_search.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/src/main/res/layout/search_recipe_item.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/src/main/res/menu/search_menu.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/src/test/java/com/lewan/search_recipe_impl/SearchRecipeFragmentTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/src/test/java/com/lewan/search_recipe_impl/SearchRecipeViewModelTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/src/test/java/com/lewan/search_recipe_impl/Stubs.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_recipe_impl/src/test/java/com/lewan/search_recipe_impl/repo/SearchRepositoryImplTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/description_recipe_impl/src/main/res/drawable/ic_food.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/lewan/app/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/lewan/app/App.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/lewan/app/AppComponent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/lewan/app/AppComponent.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/lewan/app/FacadeComponent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/lewan/app/FacadeComponent.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/lewan/app/MediatorBindings.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/base_fragment/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/core_ui/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/consumer-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/base_fragment/consumer-rules.pro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/base_fragment/proguard-rules.pro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/androidTest/java/com/lewan/core/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/core_ui/src/androidTest/java/com/lewan/core/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/core_ui/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/lewan/core/ViewBindingFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/core_ui/src/main/java/com/lewan/core_ui/ViewBindingFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/lewan/core/ViewModelFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/core_ui/src/main/java/com/lewan/core_ui/ViewModelFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/lewan/core/di/ViewModels.kt" beforeDir="false" afterPath="$PROJECT_DIR$/core_ui/src/main/java/com/lewan/core_ui/di/ViewModels.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/test/java/com/lewan/core/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/core_ui/src/test/java/com/lewan/core/ExampleUnitTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core_api/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/core_api/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core_api/src/androidTest/java/com/lewan/core_api/ExampleInstrumentedTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core_api/src/main/java/com/lewan/core_api/mediator/AppProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/core_di_api/src/main/java/com/lewan/core_di_api/AppProvider.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core_api/src/main/java/com/lewan/core_api/mediator/AppWithFacade.kt" beforeDir="false" afterPath="$PROJECT_DIR$/core_di_api/src/main/java/com/lewan/core_di_api/AppWithFacade.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core_api/src/main/java/com/lewan/core_api/mediator/MediatorProvider.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core_api/src/main/java/com/lewan/core_api/mediator/ProvidersFacade.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core_api/src/main/java/com/lewan/core_api/mediator/SearchMediator.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core_api/src/test/java/com/lewan/core_api/ExampleUnitTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/convert_api/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/main_impl/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/consumer-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/convert_api/consumer-rules.pro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/convert_api/proguard-rules.pro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/src/androidTest/java/com/lewan/main/ExampleInstrumentedTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/main_impl/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/src/main/java/com/lewan/main/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/main_impl/src/main/java/com/lewan/main_impl/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/src/main/java/com/lewan/main/di/MainComponent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/main_impl/src/main/java/com/lewan/main_impl/di/MainComponent.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/main_impl/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/src/main/res/menu/bottom_nav_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/main_impl/src/main/res/menu/bottom_nav_menu.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/src/main/res/values/color.xml" beforeDir="false" afterPath="$PROJECT_DIR$/main_impl/src/main/res/values/color.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/main_impl/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/main_impl/src/main/res/values/styles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/src/test/java/com/lewan/main/ExampleUnitTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/deps_versions.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/deps_versions.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/convert_impl/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/core_di_impl/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search/consumer-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/convert_impl/consumer-rules.pro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/convert_impl/proguard-rules.pro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search/src/androidTest/java/com/lewan/search/ExampleInstrumentedTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/search/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/base_fragment/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search/src/main/java/com/lewan/search/SearchFragment.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/search/src/main/java/com/lewan/search/SearchMediatorImpl.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/search/src/main/java/com/lewan/search/SearchViewModel.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/search/src/main/java/com/lewan/search/di/SearchComponent.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/search/src/main/java/com/lewan/search/di/SearchModule.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/search/src/main/res/layout/fragment_search.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/search/src/test/java/com/lewan/search/ExampleUnitTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core_ui/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core_ui/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core_ui/consumer-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core_ui/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core_ui/src/androidTest/java/com/lewan/core/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core_ui/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core_ui/src/main/java/com/lewan/core_ui/OpenForTesting.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core_ui/src/main/java/com/lewan/core_ui/ViewBindingFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core_ui/src/main/java/com/lewan/core_ui/ViewModelFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core_ui/src/main/java/com/lewan/core_ui/di/ViewModels.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core_ui/src/test/java/com/lewan/core/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/description_recipe_impl/src/main/res/layout/shimmer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/description_recipe_impl/src/main/res/layout/shimmer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search_recipe_impl/src/main/java/com/lewan/search_recipe_impl/SearchRecipeFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/search_recipe_impl/src/main/java/com/lewan/search_recipe_impl/SearchRecipeFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search_recipe_impl/src/main/java/com/lewan/search_recipe_impl/adapter/SearchRecipesViewHolder.kt" beforeDir="false" afterPath="$PROJECT_DIR$/search_recipe_impl/src/main/java/com/lewan/search_recipe_impl/adapter/SearchRecipesViewHolder.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -356,43 +89,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;AndroidTestSuiteView.myPassedToggleButton&quot;: &quot;false&quot;,
-    &quot;DEBUGGABLE_DEVICE&quot;: &quot;Pixel_3a_API_32 [emulator-5554]&quot;,
-    &quot;DEBUGGABLE_PROCESS&quot;: &quot;com.lewan.recipes&quot;,
-    &quot;DEBUGGER_ID&quot;: &quot;Auto&quot;,
-    &quot;PROJECT_TRUSTED_KEY&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;SHOW_ALL_PROCESSES&quot;: &quot;false&quot;,
-    &quot;android-custom-viewD:/Android/.gradle/wrapper/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.5.0/ffb6d2b7e47daaa4a24b434db111ab9e411c33a0/appcompat-1.5.0-sources.jar!/androidx/appcompat/widget/SearchView.java_SELECTED&quot;: &quot;SearchView&quot;,
-    &quot;android-custom-viewD:/Android/.gradle/wrapper/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.6.1/ace9a78b961165396147e8691faa18c1b0e48e20/appcompat-1.6.1-sources.jar!/androidx/appcompat/widget/AppCompatEditText.java_SELECTED&quot;: &quot;AppCompatEditText&quot;,
-    &quot;android-custom-viewD:/Android/.gradle/wrapper/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.6.1/ace9a78b961165396147e8691faa18c1b0e48e20/appcompat-1.6.1-sources.jar!/androidx/appcompat/widget/SearchView.java_SELECTED&quot;: &quot;SearchView&quot;,
-    &quot;android-custom-viewD:/Android/.gradle/wrapper/caches/modules-2/files-2.1/com.google.android.material/material/1.8.0/60ab9cfeed56173f0fb0c798009d91e049bbbba1/material-1.8.0-sources.jar!/com/google/android/material/search/SearchBar.java_SELECTED&quot;: &quot;SearchBar&quot;,
-    &quot;android-custom-viewD:/Android/.gradle/wrapper/caches/modules-2/files-2.1/com.google.android.material/material/1.8.0/60ab9cfeed56173f0fb0c798009d91e049bbbba1/material-1.8.0-sources.jar!/com/google/android/material/textfield/TextInputLayout.java_SELECTED&quot;: &quot;TextInputLayout&quot;,
-    &quot;android-custom-viewD:/Android/SDK/sources/android-32/android/widget/SearchView.java_SELECTED&quot;: &quot;SearchView&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/AndroidStudioProjects/Recipes&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;recommended.upgrade.last.time.stamp&quot;: &quot;1680972556431&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "AndroidTestSuiteView.myPassedToggleButton": "false",
+    "DEBUGGABLE_DEVICE": "Pixel_3a_API_32 [emulator-5554]",
+    "DEBUGGABLE_PROCESS": "com.lewan.recipes",
+    "DEBUGGER_ID": "Auto",
+    "PROJECT_TRUSTED_KEY": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SHOW_ALL_PROCESSES": "false",
+    "ScreenshotViewer.SavePath": "D:/AndroidStudioProjects/Recipes",
+    "android-custom-viewD:/Android/.gradle/wrapper/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.5.0/ffb6d2b7e47daaa4a24b434db111ab9e411c33a0/appcompat-1.5.0-sources.jar!/androidx/appcompat/widget/SearchView.java_SELECTED": "SearchView",
+    "android-custom-viewD:/Android/.gradle/wrapper/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.6.1/ace9a78b961165396147e8691faa18c1b0e48e20/appcompat-1.6.1-sources.jar!/androidx/appcompat/widget/AppCompatEditText.java_SELECTED": "AppCompatEditText",
+    "android-custom-viewD:/Android/.gradle/wrapper/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.6.1/ace9a78b961165396147e8691faa18c1b0e48e20/appcompat-1.6.1-sources.jar!/androidx/appcompat/widget/SearchView.java_SELECTED": "SearchView",
+    "android-custom-viewD:/Android/.gradle/wrapper/caches/modules-2/files-2.1/com.google.android.material/material/1.8.0/60ab9cfeed56173f0fb0c798009d91e049bbbba1/material-1.8.0-sources.jar!/com/google/android/material/search/SearchBar.java_SELECTED": "SearchBar",
+    "android-custom-viewD:/Android/.gradle/wrapper/caches/modules-2/files-2.1/com.google.android.material/material/1.8.0/60ab9cfeed56173f0fb0c798009d91e049bbbba1/material-1.8.0-sources.jar!/com/google/android/material/textfield/TextInputLayout.java_SELECTED": "TextInputLayout",
+    "android-custom-viewD:/Android/SDK/sources/android-32/android/widget/SearchView.java_SELECTED": "SearchView",
+    "cidr.known.project.marker": "true",
+    "com.google.services.firebase.aqiPopupShown": "true",
+    "last_opened_file_path": "D:/AndroidStudioProjects/Recipes",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2",
+    "recommended.upgrade.last.time.stamp": "1680972556431",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.android.tools.idea.sqlite.queryhistory&quot;: [
-      &quot;SELECT * FROM recipe WHERE name LIKE '%' || 'pasta' || '%' ORDER BY name ASC&quot;,
-      &quot;SELECT * FROM recipe where name LIKE  'Pasta Margheri'&quot;,
-      &quot;SELECT * FROM recipe where name LIKE  'Pasta Margherita'&quot;,
-      &quot;SELECT * FROM recipe where name = 'Pasta Margherita'&quot;,
-      &quot;SELECT * FROM recipe &quot;
+  "keyToStringList": {
+    "com.android.tools.idea.sqlite.queryhistory": [
+      "SELECT * FROM recipe WHERE name LIKE '%' || 'pasta' || '%' ORDER BY name ASC",
+      "SELECT * FROM recipe where name LIKE  'Pasta Margheri'",
+      "SELECT * FROM recipe where name LIKE  'Pasta Margherita'",
+      "SELECT * FROM recipe where name = 'Pasta Margherita'",
+      "SELECT * FROM recipe "
     ]
   }
-}</component>
+}]]></component>
   <component name="PsdUISettings">
     <option name="MODULE_TAB" value="Properties" />
     <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />
@@ -750,6 +484,11 @@
           <url>file://$PROJECT_DIR$/convert_impl/src/test/java/com/lewan/convert_impl/ConvertRepositoryImplTest.kt</url>
           <line>24</line>
           <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/description_recipe_impl/src/main/java/com/lewan/description_recipe_impl/DescriptionRecipeFragment.kt</url>
+          <line>68</line>
+          <option name="timeStamp" value="174" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-function">
           <url>file://$PROJECT_DIR$/core_ui/src/main/java/com/lewan/core_ui/OpenForTesting.kt</url>
